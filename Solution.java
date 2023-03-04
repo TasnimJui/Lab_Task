@@ -10,10 +10,10 @@ public class Solution {
         
         
         
-        System.out.println( + (A * B - C * D));
-         System.out.println( + (2 * A - B + 3 * D));
-         System.out.println( + (A * A + B * B - C * C + D * D));
-         System.out.println( + (A * A * A + B  - C * C));
+        System.out.println( A * B - C * D);
+         System.out.println(2 * A - B + 3 * D);
+         System.out.println((A * A + B * B - C * C + D * D);
+         System.out.println(A * A * A + B  - C * C);
        
         
       
